@@ -1,0 +1,7 @@
+C:\Users\vachu\source\repos\ConsoleApp3\To-Do List\obj\Debug\To-Do List.csproj.AssemblyReference.cache
+C:\Users\vachu\source\repos\ConsoleApp3\To-Do List\obj\Debug\To-Do List.csproj.CoreCompileInputs.cache
+C:\Users\vachu\source\repos\ConsoleApp3\To-Do List\bin\Debug\To-Do List.exe.config
+C:\Users\vachu\source\repos\ConsoleApp3\To-Do List\bin\Debug\To-Do List.exe
+C:\Users\vachu\source\repos\ConsoleApp3\To-Do List\bin\Debug\To-Do List.pdb
+C:\Users\vachu\source\repos\ConsoleApp3\To-Do List\obj\Debug\To-Do List.exe
+C:\Users\vachu\source\repos\ConsoleApp3\To-Do List\obj\Debug\To-Do List.pdb
